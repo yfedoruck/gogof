@@ -1,0 +1,1 @@
+# Examples "Gang of four" Design Patterns for Go
