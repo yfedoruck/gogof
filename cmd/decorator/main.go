@@ -1,7 +1,7 @@
 package main
 
 import (
-	txt "github.com/yfedoruck/gopattern/pkg/decorator"
+	txt "github.com/yfedoruck/gogof/pkg/decorator"
 	"log"
 )
 

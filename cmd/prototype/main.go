@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	pr "github.com/yfedoruck/gopattern/pkg/prototype"
+	pr "github.com/yfedoruck/gogof/pkg/prototype"
 )
 
 func main() {

@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	tm "github.com/yfedoruck/gopattern/pkg/template_method"
+	tm "github.com/yfedoruck/gogof/pkg/template_method"
 )
 
 func main() {

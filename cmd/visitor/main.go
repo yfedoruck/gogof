@@ -1,6 +1,6 @@
 package main
 
-import vs "github.com/yfedoruck/gopattern/pkg/visitor"
+import vs "github.com/yfedoruck/gogof/pkg/visitor"
 
 func main() {
 

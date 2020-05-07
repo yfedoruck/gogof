@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	api "github.com/yfedoruck/gopattern/pkg/adapter"
+	api "github.com/yfedoruck/gogof/pkg/adapter"
 )
 
 func main() {

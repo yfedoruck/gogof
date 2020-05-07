@@ -1,6 +1,6 @@
 package main
 
-import st "github.com/yfedoruck/gopattern/pkg/state"
+import st "github.com/yfedoruck/gogof/pkg/state"
 
 func main() {
 	var door st.Door

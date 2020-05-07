@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	cmd "github.com/yfedoruck/gopattern/pkg/command"
+	cmd "github.com/yfedoruck/gogof/pkg/command"
 	
 )
 

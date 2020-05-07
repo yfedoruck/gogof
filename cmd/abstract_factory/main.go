@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	af "github.com/yfedoruck/gopattern/pkg/abstract_factory"
+	af "github.com/yfedoruck/gogof/pkg/abstract_factory"
 )
 
 func main() {

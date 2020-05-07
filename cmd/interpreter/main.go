@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	in "github.com/yfedoruck/gopattern/pkg/interpreter"
+	in "github.com/yfedoruck/gogof/pkg/interpreter"
 )
 
 func main() {

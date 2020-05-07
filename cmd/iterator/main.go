@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	it "github.com/yfedoruck/gopattern/pkg/iterator"
+	it "github.com/yfedoruck/gogof/pkg/iterator"
 )
 
 func main() {

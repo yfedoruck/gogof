@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	br "github.com/yfedoruck/gopattern/pkg/bridge"
+	br "github.com/yfedoruck/gogof/pkg/bridge"
 )
 
 func main() {

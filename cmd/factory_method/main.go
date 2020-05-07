@@ -1,6 +1,6 @@
 package main
 
-import fm "github.com/yfedoruck/gopattern/pkg/factory_method"
+import fm "github.com/yfedoruck/gogof/pkg/factory_method"
 
 func main() {
 

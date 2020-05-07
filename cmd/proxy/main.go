@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/yfedoruck/gopattern/pkg/proxy"
+	"github.com/yfedoruck/gogof/pkg/proxy"
 )
 
 func main() {

@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	fw "github.com/yfedoruck/gopattern/pkg/flyweight"
+	fw "github.com/yfedoruck/gogof/pkg/flyweight"
 )
 
 func main() {

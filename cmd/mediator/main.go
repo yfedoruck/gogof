@@ -1,6 +1,6 @@
 package main
 
-import me "github.com/yfedoruck/gopattern/pkg/mediator"
+import me "github.com/yfedoruck/gogof/pkg/mediator"
 
 func main() {
 

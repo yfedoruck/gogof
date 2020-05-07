@@ -1,7 +1,7 @@
 package main
 
 import (
-	cp "github.com/yfedoruck/gopattern/pkg/composite"
+	cp "github.com/yfedoruck/gogof/pkg/composite"
 )
 
 func main() {

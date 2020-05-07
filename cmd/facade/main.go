@@ -1,6 +1,6 @@
 package main
 
-import fc "github.com/yfedoruck/gopattern/pkg/facade"
+import fc "github.com/yfedoruck/gogof/pkg/facade"
 
 func main() {
 	pc := fc.Computer{

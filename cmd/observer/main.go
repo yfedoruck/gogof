@@ -1,6 +1,6 @@
 package main
 
-import ob "github.com/yfedoruck/gopattern/pkg/observer"
+import ob "github.com/yfedoruck/gogof/pkg/observer"
 
 func main() {
 

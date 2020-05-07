@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	me "github.com/yfedoruck/gopattern/pkg/memento"
+	me "github.com/yfedoruck/gogof/pkg/memento"
 )
 
 func main() {

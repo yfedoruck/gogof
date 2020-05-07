@@ -1,3 +1,3 @@
-module github.com/yfedoruck/gopattern
+module github.com/yfedoruck/gogof
 
 go 1.13

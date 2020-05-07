@@ -1,6 +1,6 @@
 package main
 
-import ch "github.com/yfedoruck/gopattern/pkg/chain"
+import ch "github.com/yfedoruck/gogof/pkg/chain"
 
 func main() {
 	monkey := ch.Monkey{}
